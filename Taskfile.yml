@@ -5,4 +5,4 @@ tasks:
     desc: Generate wizexercise.txt with the encoded answer
     cmds:
       - |
-        echo "The answer to the ultimate question of life, the universe and everything: 42" | base64 > wizexercise.txt
+        echo "The answer to the ultimate question of life, the universe and everything: 42" | base64 > assets/wizexercise.txt
